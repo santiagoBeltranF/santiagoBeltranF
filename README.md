@@ -5,6 +5,7 @@
 Mi nombre es Santiago Beltran Florez y soy de Colombia 😄
 
 Actualmente trabajo como desarrollador de Software
+
 ✨ JAVA, desarrollador Junior
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F711&width=435&lines=Habilidades)](https://git.io/typing-svg)
