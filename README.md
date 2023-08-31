@@ -18,4 +18,5 @@ Tailwind, Diseño UI UX, SCSS, CSS
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72424&width=435&lines=Contacto)](https://git.io/typing-svg)
 
 santi_199908@hotmail.com
+
 cel: 3046295850
