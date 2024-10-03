@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-beltran) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagobf08@gmail.com)
 
-Soy un **Desarrollador Backend** con un año de experiencia en la creación de soluciones eficientes y escalables que optimizan el rendimiento y la experiencia del usuario. Me especializo en lenguajes de programación como**Kotlin**, **Java** y **Python**, y tengo una sólida experiencia en el desarrollo de aplicaciones utilizando**FastAPI**, **Peewee** como ORM. Estoy familiarizado con la implementación de arquitecturas de microservicios, donde priorizo las buenas prácticas de programación, como la separación de responsabilidades y el diseño limpio, así como el uso de metodologías ágiles como SCRUM para asegurar un flujo de trabajo eficiente y adaptable.
+Soy un **Desarrollador Backend** con un año de experiencia en la creación de soluciones eficientes y escalables que optimizan el rendimiento y la experiencia del usuario. Me especializo en lenguajes de programación como **Kotlin**, **Java** y **Python**, y tengo una sólida experiencia en el desarrollo de aplicaciones utilizando **FastAPI**, **Peewee** como ORM. Estoy familiarizado con la implementación de arquitecturas de microservicios, donde priorizo las buenas prácticas de programación, como la separación de responsabilidades y el diseño limpio, así como el uso de metodologías ágiles como SCRUM para asegurar un flujo de trabajo eficiente y adaptable.
 ---
 
 ### 🛠️ Tecnologías y Herramientas
