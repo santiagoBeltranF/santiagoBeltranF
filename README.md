@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-beltran) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagobf08@gmail.com)
 
-Soy un **Desarrollador Backend** con 1 año de experiencia construyendo soluciones eficientes y escalables. Apasionado por la tecnología, me especializo en el desarrollo con **Kotlin**, **Java**, **Python** y la implementación de arquitecturas de microservicios, con un enfoque en **buenas prácticas** de programación y **metodologías ágiles**.
-
+Soy un **Desarrollador Backend** con un año de experiencia en la creación de soluciones eficientes y escalables que optimizan el rendimiento y la experiencia del usuario. Me especializo en lenguajes de programación como**Kotlin**, **Java** y **Python**, y tengo una sólida experiencia en el desarrollo de aplicaciones utilizando**FastAPI**, **Peewee** como ORM. Estoy familiarizado con la implementación de arquitecturas de microservicios, donde priorizo las buenas prácticas de programación, como la separación de responsabilidades y el diseño limpio, así como el uso de metodologías ágiles como SCRUM para asegurar un flujo de trabajo eficiente y adaptable.
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -21,19 +20,19 @@ Soy un **Desarrollador Backend** con 1 año de experiencia construyendo solucion
 - **Lenguajes**: Kotlin, Java, JavaScript, Python
 - **Bases de Datos**: SQL, MySQL
 - **DevOps**: Docker, Git, CI/CD
-- **Metodologías**: SCRUM, Kanban
+- **Metodologías**: SCRUM
 
 ---
 
 ### 🔥 Proyectos Destacados
 
-#### 📦 [Recipe_Master](https://github.com/tu_usuario/recipe_master)
-Aplicación para la gestión de recetas, planificación de menús y generación de listas de compras. **Tecnologías**: Node.js, React, MySQL.
+#### 📦 [Recipe_Master](https://github.com/santiagoBeltranF/recipe_master)
+Aplicación para la gestión de recetas, planificación de menús y generación de listas de compras. **Tecnologías**: FastAPI, Peewee, MySQL.
 
-#### 🌐 [TareasBot](https://github.com/tu_usuario/tareas_bot)
+#### 🌐 [TareasBot](https://github.com/santiagoBeltranF/tareas_bot)
 Bot automatizado para la gestión de tareas en Trello mediante API. **Tecnologías**: Python, WebSocket.
 
-#### 🚀 [Aplicación Educativa en la Nube](https://github.com/tu_usuario/educational_app)
+#### 🚀 [Aplicación Educativa en la Nube](https://github.com/santiagoBeltranF/educational_app)
 Implementación de servicios en la nube usando **Kotlin** con conexiones HTTP REST y WebSocket. El objetivo era mejorar la escalabilidad y rendimiento de una aplicación educativa para estudiantes.
 
 ---
@@ -57,7 +56,7 @@ _EAM, Armenia, Colombia (2020 - Actualidad)_
 
 ### 📊 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=santiagoBeltranF&show_icons=true&theme=radical)
 
 ---
 
@@ -65,5 +64,6 @@ _EAM, Armenia, Colombia (2020 - Actualidad)_
 - **LinkedIn**: [Santiago Beltrán](https://www.linkedin.com/in/santiago-beltran)
 - **Correo**: santiagobf08@gmail.com
 - **Teléfono**: +57 304 629 5850
+
 
 
