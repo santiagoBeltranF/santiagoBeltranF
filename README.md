@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=70&lines=Santiago+Beltr%C3%A1n+Fl%C3%B3rez;Ingeniero+de+Software;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Santiago+Beltr%C3%A1n+Fl%C3%B3rez;Ingeniero+de+Software;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Soy **Ingeniero de Software** con un enfoque versátil que combina el desarrollo
 
 - 💻 **Desarrollo Frontend:** Creación de interfaces dinámicas, responsivas e interactivas utilizando **React** y **Angular**.
 - ⚙️ **Desarrollo Backend:** Construcción de APIs y lógica de negocio eficientes con **Python (FastAPI)**, **Node.js**, **Kotlin** y **Java**.
-- 📊 **Datos y Cloud:** Experiencia gestionando bases de datos relacionales (**MySQL**), estructurando flujos de datos con **Python (Pandas)** y modelando métricas clave en dashboards de **Tableau**.
+- 📊 **Datos y Cloud:** Experiencia gestionando bases de datos relacionales (**MySQL**), estructurando flujos de datos con **Python (Pandas)** y de modelar métricas clave en dashboards de **Tableau**.
 - ☁️ **Infraestructura:** Optimización y despliegue de soluciones escalables a través de **Docker** y servicios de **AWS**.
 
 Trabajo bajo metodologías ágiles (**SCRUM**), promoviendo la arquitectura limpia, la mantenibilidad del código y la entrega constante de valor.
@@ -65,11 +65,3 @@ Trabajo bajo metodologías ágiles (**SCRUM**), promoviendo la arquitectura limp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrumalliance&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiagoBeltranF&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Santiago" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoBeltranF&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
