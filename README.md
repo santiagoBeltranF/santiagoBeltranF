@@ -1,14 +1,27 @@
-# ¡Hola! Soy Santiago Beltrán Flórez 👋
-### Ingeniero de Software | Full Stack Developer & Data Analyst
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=70&lines=Santiago+Beltr%C3%A1n+Fl%C3%B3rez;Ingeniero+de+Software;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
+  </a>
+</p>
 
-Desarrollador con experiencia en la construcción de aplicaciones Full Stack escalables y en la transformación de datos en información de valor para el negocio.
+<p align="center">
+  Desarrollador con experiencia en la construcción de aplicaciones Full Stack escalables y en la transformación de datos en información de valor para el negocio.
+</p>
 
 ---
 
 ### 📬 Contacto & Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-beltran)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagobf08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiagoBeltranF)
+<p align="left">
+  <a href="https://www.linkedin.com/in/santiago-beltran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:santiagobf08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/santiagoBeltranF">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -60,47 +73,3 @@ Trabajo bajo metodologías ágiles (**SCRUM**), promoviendo la arquitectura limp
   <img src="https://github-readme-stats.vercel.app/api?username=santiagoBeltranF&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Santiago" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoBeltranF&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" height="150" />
 </p>
-
-### 🔥 Proyectos Destacados
-
-#### 📦 [Recipe_Master](https://github.com/santiagoBeltranF/recipe_master)
-Aplicación para la gestión de recetas, planificación de menús y generación de listas de compras. **Tecnologías**: FastAPI, Peewee, MySQL.
-
-#### 🌐 [TareasBot](https://github.com/santiagoBeltranF/tareas_bot)
-Bot automatizado para la gestión de tareas en Trello mediante API. **Tecnologías**: Python, WebSocket.
-
-#### 🚀 [Aplicación Educativa en la Nube](https://github.com/santiagoBeltranF/educational_app)
-Implementación de servicios en la nube usando **Kotlin** con conexiones HTTP REST y WebSocket. El objetivo era mejorar la escalabilidad y rendimiento de una aplicación educativa para estudiantes.
-
----
-
-### 💼 Experiencia Profesional
-
-**Ingeniero de Software**  
-_Celuweb, Noviembre 2022_  
-- Desarrollé backend utilizando **Kotlin**, implementando patrones de diseño GOF.
-- Implementé **servicios de nube** con conexiones HTTP REST y WebSocket para una aplicación educativa.
-- Mejora del rendimiento del sistema en un 30% mediante la optimización de servicios backend.
-
----
-
-### 🎓 Educación
-
-**Ingeniería de Software**  
-_EAM, Armenia, Colombia (2020 - Actualidad)_  
-
----
-
-### 📊 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=santiagoBeltranF&show_icons=true&theme=radical)
-
----
-
-### 🌐 Redes y Contacto
-- **LinkedIn**: [Santiago Beltrán](https://www.linkedin.com/in/santiago-beltran)
-- **Correo**: santiagobf08@gmail.com
-- **Teléfono**: +57 304 629 5850
-
-
-
